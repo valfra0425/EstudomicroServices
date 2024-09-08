@@ -1,2 +1,1 @@
-import "./createCustomer.customer"
-import "./createProduct.consumer"
+import "./createProduct.consumer";

@@ -1,5 +1,6 @@
 import express from 'express';
 import "./infra/provider/kafka/consumer/index"
+import "./infra/provider/kafka/consumer/index2"
 import * as dotenv from 'dotenv';
 dotenv.config();
 import { router } from "./infra/routes";
